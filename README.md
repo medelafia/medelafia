@@ -159,7 +159,7 @@ Data-driven analytics backend system.
 - 🐙 GitHub: https://github.com/medelafia  
 - 💼 LinkedIn: https://www.linkedin.com/in/mohamed-el-afia-bb5047286/ 
 - 📧 Email: mohamedelafia723@gmail.com | mohamed.elafia8@etu.uae.ac.ma
-
+- 🌐 Portfolio: https://v0-project-xi-sooty.vercel.app/ 
 ---
 
 <div align="center">
