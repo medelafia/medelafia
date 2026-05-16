@@ -1,199 +1,134 @@
-# Mohamed El Afia
+# 👋 Mohamed El Afia
 
 <div align="center">
 
-### Cloud-Native Software Engineer | AI & DevOps Enthusiast
+## 🚀 Cloud-Native Software Engineer | AI & DevOps Enthusiast
 
-Building scalable systems, AI-powered platforms, and cloud-native infrastructures.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 </div>
 
 ---
 
-# About Me
+## 🧠 About Me
 
-I am a Software Engineering student passionate about:
+I am a Software Engineering student passionate about building:
 
-- Cloud-Native Architectures
-- Artificial Intelligence
-- DevOps & Automation
-- Distributed Systems
-- Backend Engineering
-- Infrastructure Monitoring
-- Kubernetes & Docker
+- ☁️ Cloud-Native Systems
+- 🤖 Artificial Intelligence
+- ⚙️ DevOps & Automation
+- 🔗 Distributed Systems
+- 🧩 Backend Architectures
+- 📊 Observability & Monitoring
 
-I enjoy building real-world systems that combine:
-- scalability
-- automation
-- monitoring
-- AI integration
-- modern software engineering practices
+I love turning complex systems into **scalable, automated, and intelligent platforms**.
 
 ---
 
-# Tech Stack
+## 🛠️ Tech Stack
 
-## Backend
-- Java
-- Spring Boot
-- Python
-- FastAPI
-- REST APIs
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## Frontend
-- React
-- TypeScript
-- Tailwind CSS
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## DevOps & Cloud
-- Docker
-- Kubernetes
-- Jenkins
-- GitHub Actions
-- Ansible
-- Linux
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## Monitoring & Observability
-- Prometheus
-- Grafana
-- ELK Stack
-
-## Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-
-## AI & Machine Learning
-- TensorFlow
-- Scikit-learn
-- NLP
-- Deep Learning
+### 📊 Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-# Featured Projects
-
-## Smart University Cloud Platform
-Cloud-native university platform using:
-- Kubernetes
-- Docker
-- Spring Boot
-- React
-- Prometheus
-- Grafana
-
-### Features
-- Microservices architecture
-- CI/CD automation
-- Monitoring & observability
-- Authentication & security
-- AI integration
-- Scalable infrastructure
+## 🚀 Featured Projects
 
 ---
 
-## Distributed Matrix Computing System
+### 🏫 Smart University Cloud Platform
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
 
-Distributed computing platform designed to process matrix operations across multiple nodes.
-
-### Technologies
-- Java
-- Distributed Systems
-- Socket Programming
-- Parallel Computing
-
-### Features
-- Matrix slicing
-- Distributed computation
-- Multi-node execution
-- Performance optimization
+- ☁️ Kubernetes deployment
+- ⚙️ Microservices architecture
+- 📊 Monitoring with Prometheus & Grafana
+- 🔐 Authentication system
+- 🤖 AI integration
 
 ---
 
-## AI Medical Diagnosis System
+### 🔗 Distributed Matrix Computing System
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250"/>
 
-AI-powered medical diagnosis platform capable of analyzing symptoms and assisting prediction models.
-
-### Technologies
-- Python
-- Machine Learning
-- FastAPI
-- Neural Networks
-
-### Features
-- Disease prediction
-- ML model integration
-- API-based architecture
-- Data analysis pipeline
+- ⚡ Parallel computing
+- 🧮 Matrix slicing
+- 🌐 Distributed execution
+- 🚀 High performance architecture
 
 ---
 
-## DevOps Automation Platform
+### 🤖 AI Medical Diagnosis System
+<img src="https://media.giphy.com/media/3oKIPuMqYfRsyJm7i0/giphy.gif" width="250"/>
 
-Automated deployment platform using modern DevOps practices.
-
-### Technologies
-- Docker
-- Kubernetes
-- Jenkins
-- GitHub Actions
-
-### Features
-- CI/CD pipelines
-- Automated deployments
-- Container orchestration
-- Monitoring integration
+- 🧠 Machine Learning models
+- 🏥 Disease prediction
+- 📡 API-based architecture
+- 📊 Data analysis pipeline
 
 ---
 
-# Current Focus
+### ⚙️ DevOps Automation Platform
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 
-Currently exploring:
-- Kubernetes orchestration
-- Cloud-native systems
-- AI-powered infrastructure
-- Observability & monitoring
-- Distributed architectures
-- DevSecOps practices
+- 🔁 CI/CD pipelines
+- 🐳 Docker automation
+- ☸️ Kubernetes deployment
+- 📈 System monitoring
 
 ---
 
-# GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medelafia&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=medelafia&show_icons=true&theme=tokyonight" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medelafia&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medelafia&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
 
 ---
 
-# Architecture & Engineering Interests
+## 📌 Current Focus
 
-- Microservices
-- Distributed Systems
-- Infrastructure Automation
-- Cloud Computing
-- High Availability Systems
-- AI Integration
-- Observability
-- DevOps Engineering
+- ☸️ Kubernetes & Cloud-Native Systems
+- 🤖 AI-powered applications
+- ⚙️ DevOps automation
+- 🔍 Observability & monitoring
+- 🧩 Microservices architecture
 
 ---
 
-# Connect With Me
+## 🌐 Connect With Me
 
-- GitHub: https://github.com/medelafia
-- LinkedIn: [Add your LinkedIn]
-- Email: [Add your Email]
+- 🐙 GitHub: https://github.com/medelafia  
+- 💼 LinkedIn: [Add your LinkedIn]  
+- 📧 Email: [Add your email]
 
 ---
 
 <div align="center">
 
-### “Building scalable systems with AI, automation and cloud-native technologies.”
+## ⚡ “Build systems that scale, automate everything, and think intelligently.”
+
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
 
 </div>
