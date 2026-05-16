@@ -157,8 +157,8 @@ Data-driven analytics backend system.
 # 🌍 Connect With Me
 
 - 🐙 GitHub: https://github.com/medelafia  
-- 💼 LinkedIn: [Add your LinkedIn]  
-- 📧 Email: [Add your email]
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-el-afia-bb5047286/ 
+- 📧 Email: mohamedelafia723@gmail.com | mohamed.elafia8@etu.uae.ac.ma
 
 ---
 
